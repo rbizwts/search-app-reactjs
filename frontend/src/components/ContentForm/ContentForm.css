@@ -1,0 +1,16 @@
+.TextAreaCustom {
+    resize: none !important;
+}
+
+.bd-callout {
+    margin: 30px 7px;
+    padding-left: 20px;
+}
+
+.bd-callout-warning {
+    border-left: 3px solid red;
+}
+
+.borderLeftColor1 {
+    border-left: 3px solid red;
+}

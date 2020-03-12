@@ -1,0 +1,23 @@
+.custom-input {
+    border: 3px solid #000000 !important;
+    font-size: 2rem !important;
+}
+
+.search-input {
+    font-size: 25px;
+    box-shadow: #000 0 2px 18px;
+    border-radius: 5px;
+}
+
+.search-input:hover, .search-input:focus {
+    box-shadow: #333 0 2px 18px;
+}
+
+.search-centered {
+    position: fixed;
+    z-index: 1;
+    width: 700px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

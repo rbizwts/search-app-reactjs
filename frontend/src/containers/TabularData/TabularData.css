@@ -1,0 +1,4 @@
+.CustomListTwo li:hover {
+    color: #607d8b;
+    cursor: pointer;
+}

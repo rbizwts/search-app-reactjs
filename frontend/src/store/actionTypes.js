@@ -1,0 +1,14 @@
+export const TRY_AUTO_LOGIN_START = 'TRY_AUTO_LOGIN_START';
+export const TRY_AUTO_LOGIN = 'TRY_AUTO_LOGIN';
+
+export const IS_LOGIN = 'IS_LOGIN';
+
+export const LOGIN_START = 'LOGIN_START';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+
+export const LOGOUT = 'LOGOUT';
+
+export const REGISTER_START = 'REGISTER_START';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAILED = 'REGISTER_FAILED';
